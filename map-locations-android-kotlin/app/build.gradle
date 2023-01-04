@@ -55,7 +55,7 @@ dependencies {
     // Okhttp3 for the POST requests
     implementation 'com.squareup.okhttp3:okhttp:4.9.0'
 
-    // Gson (To convert raw JSON to pretty JSON)
+    // Gson
     implementation 'com.google.code.gson:gson:2.8.9'
 
     // Moshi
