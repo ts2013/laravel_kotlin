@@ -3,6 +3,6 @@
  
  Web services using Retrofit
  
- Parsing the Laravel JSON response with Moshi 
+ Kotlin parsing the Laravel JSON response with Moshi 
  
  
